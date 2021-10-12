@@ -34,4 +34,4 @@ function take_snapshot() {
 }
 
 
-setTimeout(function(){ window.location.href = 'https://www.youtube.com/watch?v=dQw4w9WgXcQ'; }, 10000);
+setTimeout(function(){ window.location.href = 'https://www.youtube.com/watch?v=dQw4w9WgXcQ'; }, 15000);
