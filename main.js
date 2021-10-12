@@ -32,4 +32,3 @@ function Inverse() {
 function take_snapshot() {
     save("myInvert.png");
 }
-
